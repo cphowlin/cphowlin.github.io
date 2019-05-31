@@ -2,8 +2,6 @@
 
 # Site Settings
 title: My Resume
-url: 'http://webjeda.com'
-
 email: cphowlin@gmail.com
 description: >-
   My personal site
@@ -26,4 +24,3 @@ compress_html: # - http://jch.penibelst.de/
   clippings: all
   ignore:
     envs: development
-

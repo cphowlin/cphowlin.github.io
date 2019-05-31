@@ -3,45 +3,40 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
+    skills: False # set to False if you want skill in main section instead of in sidebar
 
     # Profile information
     name: Colm Howlin
     tagline: Research Scientist
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: cphowlin@gmail.com
+    phone: 
+    website:  #do not add http://
+    linkedin: colmhowlin
+    github: 
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@cp_h'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+    #languages:
+    #  - idiom: 
+    #    level: 
 
     interests:
-      - item: Climbing
+      - item: Running
         link:
 
-      - item: Snowboarding
+      - item: Mountains
         link:
 
-      - item: Cooking
+      - item: Outdoors
         link:
 
 career-profile:
@@ -56,31 +51,21 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Applied Mathematics
+      university: University of Limerick
+      time: 2002 - 2006
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        - Title: The dynamics of packets of surface gravity waves in smooth inhomogeneous media.
+        - Supervisor: Prof Eugene Benilov 
+        - Funding: Irish Research Council for Science, Engineering and Technology Scholarship
 
     - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+      university: University of Limerick
+      time: 1998 - 2002
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        
+        - First Class Honours
+        
 
 experiences:
     - role: Lead Developer
@@ -156,23 +141,31 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
+    
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Detecting Outlier Behaviors in Student Progress Trajectories Using a Repeated Fuzzy Clustering Approach
+        authors: Colm P. Howlin and Charles D. Dziuban
+        conference: Proceedings of the 12th International Conference on Educational Data Mining (2019)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Pathways of students’ progress through an on-demand online curriculum
+        authors: Colm P. Howlin, Euan Lindsay, M.E.D. van den Bogaard and Jim Morgan 
+        conference: Proceedings of 126th ASEE Annual Conference (2019)
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Adaptive Learning: Context and Complexity"
+        authors: Charles Dziuban, Colm P. Howlin, Patsy Moskal, Connie Johnson, Mitchell Eid and Brandon Kmetz 
+        conference: E-Mentor 5(77), 7-39. doi:10.15219/em77.1384 (2019)
+
+      - title: "Adaptive Learning: A Stabilizing Influence Across Disciplines and Universities"
+        authors: Charles Dziuban, Colm P. Howlin, Patsy Moskal, Connie Johnson, Liza Parker and Maria Campbell  
+        conference: Online Learning, 22(3), 7-39. doi:10.24059/olj.v22i3.1465 (2018)
+
+      - title: "Patterns Of Student’s Curriculum Engagement In An On-demand Online Curriculum: An Exploratory Study At Charles Sturt University"
+        authors: M.E.D. van den Bogaard, Colm P. Howlin, Euan Lindsay and Jim Morgan 
+        conference: Proceedings of the 46th SEFI Annual Conference. p487-494 (2018)
+
+      - title: An Adaptive Learning Partnership
+        authors: Charles Dziuban, Colm P. Howlin, Constance Johnson and Patsy Moskal
+        conference: Educause Review, (Editors' Pick), December 18 2017
 
 skills:
     title: Skills &amp; Proficiency
@@ -195,6 +188,3 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
