@@ -228,10 +228,6 @@ presentations:
         title: "Keynote: Multi-context Adaptive Learning at Scale"
         date: 2019-03-27
         
-      - location: The “Big Data” Caucus - Convening on Leveraging Learning Analytics (Phoenix, AZ)
-        title: "Lightning Talk: Adaptive Learning Behaviors"
-        date: 2018-12-05
-
       - location: Realizeit Webinar Series
         title: How to Design Adaptive Courses for Student Success
         date: 2018-12-05
@@ -265,6 +261,7 @@ presentations:
         date: 2018-04-16
 
       - location: Empirical Educators 2018 (Stanford University, CA)
+        title: "Lightning Talk: Adaptive Learning Behaviors"  
         date: 2018-02-28
 
       - location: ELI Annual Meeting 2018 (New Orleans, LA)
