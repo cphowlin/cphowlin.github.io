@@ -11,10 +11,12 @@ layout: default
 
 {% include experiences.html %}
 
+{% unless site.data.data.sidebar.skills %}
+  {% include skills.html %}
+{% endunless %}
+
 {% include projects.html %}
 
 {% include publications.html %}
 
-{% unless site.data.data.sidebar.skills %}
-  {% include skills.html %}
-{% endunless %}
+{% include presentations.html %}

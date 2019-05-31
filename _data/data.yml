@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
     skills: False # set to False if you want skill in main section instead of in sidebar
 
     # Profile information
@@ -17,7 +17,7 @@ sidebar:
     phone: 
     website:  #do not add http://
     linkedin: colmhowlin
-    github: 
+    github: cphowlin
     gitlab:
     bitbucket:
     twitter: '@cp_h'
@@ -59,12 +59,13 @@ education:
         - Supervisor: Prof Eugene Benilov 
         - Funding: Irish Research Council for Science, Engineering and Technology Scholarship
 
-    - degree: BSc in Applied Mathematics
+    - degree: BSc in Applied Mathematics and Computing
       university: University of Limerick
       time: 1998 - 2002
       details: |
         
         - First Class Honours
+        - Mathematics, Statistics, Computing
         
 
 experiences:
@@ -165,26 +166,127 @@ publications:
 
       - title: An Adaptive Learning Partnership
         authors: Charles Dziuban, Colm P. Howlin, Constance Johnson and Patsy Moskal
-        conference: Educause Review, (Editors' Pick), December 18 2017
+        conference: Educause Review - Editors' Pick, (December 2017)
+
+      - title: A Framework for the Delivery of Personalized Adaptive Content
+        authors: Colm P. Howlin and D. J. Lynch
+        conference: Proceedings of the ICWOAL Conference (2014)
+
+      - title: Real World Usage of an Adaptive Testing Algorithm to Uncover Latent Knowledge
+        authors: D. J. Lynch and Colm P. Howlin
+        conference: Proceedings of the ICERI 2014 Conference, pp. 504–511 (2014)
+
+      - title: "Uncovering Latent Knowledge: A Comparison of Two Algorithms"
+        authors: Colm P. Howlin and D. J. Lynch
+        conference: UMAP 2014, LNCS 8538, pp. 363–368 (2014)
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: R
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Python
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Keras / Tensorflow
+        level: 33%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: D3.js
+        level: 25%
+        
+presentations:
+    title: Presentations
 
-      - name: Ruby on Rails
-        level: 85%
+    talks:
+      - location: OLC Accelerate 2019 (Orlando, FL)
+        title: "Adaptive Learning Predictive Analytics: Two Domains"
+        date: "Date: TBD"
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - location: WCET's 31st Annual Meeting 2019 (Denver, CO)
+        title: A Collaborative Approach to Adaptive Predictive Analytics 
+        date: "Date: TBD"
+  
+      - location: The 28th ICDE World Conference on Online Learning (Dublin, Ireland)
+        title: "Key Questions When Designing Adaptive Courses"
+        date: 2019-11-03
+
+      - location: EDUCAUSE Annual Conference 2019 (Chicago, IL)
+        title: A Collaborative Approach to Adaptive Predictive Analytics
+        date: "Date: TBD"
+        
+      - location: The 12th International Conference on Educational Data Mining (Montreal, Canada)
+        title: "Detecting Outlier Behaviors in Student Progress Trajectories Using a Repeated Fuzzy Clustering Approach"
+        date: 2019-07-04
+      
+      - location: The 126th American Society for Engineering Education Annual Conference (Tampa, FL)
+        title: "Pathways of students’ progress through an on-demand online curriculum"
+        date: 2019-06-18
+      
+      - location: The University of North Carolina System - Digitial Learning Initiative 2019 Symposium (Raleigh, NC)
+        title: "Keynote: Multi-context Adaptive Learning at Scale"
+        date: 2019-03-27
+        
+      - location: The “Big Data” Caucus - Convening on Leveraging Learning Analytics (Phoenix, AZ)
+        title: "Lightning Talk: Adaptive Learning Behaviors"
+        date: 2018-12-05
+
+      - location: Realizeit Webinar Series
+        title: How to Design Adaptive Courses for Student Success
+        date: 2018-12-05
+        
+      - location: OLC Accelerate 2018 (Orlando, FL)
+        title: "Adaptive Learning: Three Years Of Collaborative Research"
+        date: 2018-11-14
+        
+      - location: EDUCAUSE Annual Conference 2018 (Denver, CO)
+        title: 'Student Adaptive Learning Behavior Prototypes: A Research Partnership '
+        date: 2018-11-02
+
+      - location: EdCrunch 2018 (Moscow, Russia)
+        title: 'Panel Discussion: "Future of Personalized Learning and the Role in Adaptive Courseware"'
+        date: 2018-10-01
+
+      - location: EdCrunch 2018 (Moscow, Russia)
+        title: 'Insights into Adaptive Learning: Student Attitudes, Outcomes, and Behaviors'
+        date: 2018-10-01
+        
+      - location: 46<sup>th</sup> SEFI Annual Conference 2018 (Copenhagen, Denmark)
+        title: Patterns of Student’s Curriculum Engagement in an On-Demand Online Curriculum - an Exploratory Study at Charles Sturt University 
+        date: 2018-09-20
+        
+      - location: OLC Innovate 2018 (Nashville, TN)
+        title: An Adaptive Learning Partnership 
+        date: 2018-04-19
+
+      - location: ASU-GSV Summit 2018 (San Diego, CA)
+        title: "Offline to Online: AI and China K-12 Education for the 21st Century with RISE Education"
+        date: 2018-04-16
+
+      - location: Empirical Educators 2018 (Stanford University, CA)
+        date: 2018-02-28
+
+      - location: ELI Annual Meeting 2018 (New Orleans, LA)
+        title: How Students Behave in Adaptive Learning Courses 
+        date: 2018-01-30
+        
+      - location: ELI Annual Meeting 2018 (New Orleans, LA)
+        title: A Collaborative Research Agenda for Evaluating the Impact of Adaptive Learning 
+        date: 2018-01-30
+        
+      - location: OLC Accelerate 2017 (Orlando, FL)
+        title: Some Recent Developments In Adaptive Learning Research 
+        date: 2017-11-16
+
+      - location: Realizeit Summit 2017 (Chicago, IL)
+        title: Research Agenda for Personalized, Adaptive Learning 
+        date: 2017-09-20
+
+      - location: Realizeit Summit 2017 (Chicago, IL)
+        title: Developing an Iterative Improvement Cycle Powered by Learning Analytics 
+        date: 2017-09-19
+
+      - location: Realizeit Webinar Series
+        title: How Students Behave in Personalized, Adaptive Courses 
+        date: 2017-03-07
