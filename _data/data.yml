@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Colm Howlin
     tagline: Research Scientist
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile3.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: cphowlin@gmail.com
@@ -42,12 +42,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      
+      I have over 11 years experience... in data modelling / machine learning
 
+      As Principal Researcher at Realizeit, I lead the research and analytics teams. 
+      My research powers the models that underpin Realizeit’s personalized learning 
+      engine. I also work with academic researchers to better understand the impact 
+      and opportunities related to the usage of the Realizeit engine and adaptive 
+      learning in general. You can read about some of my work at Realizeit [here](https://lab.realizeitlearning.com/).
+      
       Second paragraph if required.
 
 education:
@@ -69,76 +72,70 @@ education:
         
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Principal Researcher
+      time: 2008 - Present
+      company: Realizeit, Ireland
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Realizeit is a content agnostic adaptive learning platform that personalises course content 
+        and structure to each individual user. Major clients include some of the largest public 
+        universities in the US including the University of Central Florida and the University of 
+        Texas System. My role spans across all areas of the business including
 
-          - Bullet point
-          - Bullet point
+          - Leading and managing the research team;
+          - Establishing the directions and goals of current and future research;
+          - Supervising both internal and external research projects;
+          - Engaging with the Business Intelligence teams in customer institutions;
+          - Communicating with current and potential clients;
+          - Providing support to the Sales and Marketing team;
+          - Working on funding proposals;
+          - Engaging and communicating with the established research community through collaboration, publications, conferences and presentations;
+          - Developing models and algorithms which capture and describe the learning process;
+          - Working with the system architect and developers in an Agile environment to implement the research, models and algorithms within the system;
+          - Development and evolution of the Adaptive Intelligence Engine which underpins the intelligence behind the system;
+          - Development of the Analytics Engine within the system.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Statistical Consultant
+      time: 2007 - 2008
+      company: SPSS, Ireland
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        SPSS Inc. is one of the leading providers of predictive analytics technology and services. 
+        It offers statistical, data mining and business intelligence software tools to analyse and 
+        predict from a range of enterprise data. My role included
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Liaising with clients and delivering statistical consultancy;
+        - Providing training on statistical and data mining projects;
+        - Solving SPSS client queries;
+        - Supporting the sales team by making technical presentations to clients.
+        
+    - role: Postdoctoral Research Associate
+      time: 2006 - 2007
+      company: Dept. of Mathematical Sciences, Loughborough University, UK
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        My role in Loughborough University involved conducting research on a project funded by the US Office of
+        Naval Research entitled “Internal Tide Generation at the Continental Shelf Modelled using a Modal Decomposition”. 
+        This role involved
 
-          - Bullet point
-          - Bullet point
+        - Building mathematical models of the described phenomena;
+        - Simulating the models to determine long term behaviour of the system;
+        - Communicating and presenting my work within the research community
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Collaborative research projects in which I am currently involved.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Adaptive Learning Behaviors
+        link: 
+        tagline: " A collaborative project with researcher and instructors at the University of Central Florida and Georgia State University on how student progress in an adaptive environment and the impact of those behaviors on their learning."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Learning in an On-Demand Curriculum
+        link: 
+        tagline: "An investigation into the Netflix style bingeing habits of student who have on-demand access to their learning and are in control of the pace and direction of their learning. In collaboration with Charles Sturt University."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Automated Affective Detection
+        link: 
+        tagline: "Automatically inferring a user’s emotional state from their interaction with a learning platform and taking appropriate action. An NSF funded project with researchers from Cornell University and the University of Pennsylvania."
 
 publications:
     title: Publications
@@ -180,22 +177,46 @@ publications:
         authors: Colm P. Howlin and D. J. Lynch
         conference: UMAP 2014, LNCS 8538, pp. 363–368 (2014)
 
+      - title: The Dynamics of Packets of Surface Gravity Waves in Smooth Inhomogeneous Media
+        authors: Colm P. Howlin
+        conference: PhD Thesis, University of Limerick (2006)
+
+      - title: Evolution of packets of surface gravity waves over strong smooth topography
+        authors: Eugene S. Benilov, Colm P. Howlin
+        conference: Studies in Applied Mathematics 116 (3), 289-301 (2006)
+
+      - title: Evolution of packets of surface gravity waves over smooth topography
+        authors: Eugene S. Benilov, Jason D. Flanagan, Colm P. Howlin
+        conference: Journal of Fluid Mechanics 533, 171-181 (2005)
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: R
-        level: 98%
+      - name: R / Tidyverse / Shiny
+        level: 99%
 
-      - name: Python
-        level: 98%
-
-      - name: Keras / Tensorflow
-        level: 33%
-
-      - name: D3.js
-        level: 25%
+      - name: Python / Numpy / Pandas
+        level: 80%
         
+      - name: Keras / Tensorflow
+        level: 50%
+      
+      - name: Data Mining
+        level: 95%
+      
+      - name: Statistical Modelling
+        level: 95%
+
+      - name: Data Visualization
+        level: 75%
+
+      - name: Machine Learning 
+        level: 75%
+        
+      - name: Deep Learning 
+        level: 50%
+
 presentations:
     title: Presentations
 
