@@ -133,9 +133,9 @@ projects:
         link: 
         tagline: "An investigation into the Netflix style bingeing habits of student who have on-demand access to their learning and are in control of the pace and direction of their learning. In collaboration with Charles Sturt University."
 
-      - title: Automated Affective Detection
-        link: 
-        tagline: "Automatically inferring a user’s emotional state from their interaction with a learning platform and taking appropriate action. An NSF funded project with researchers from Cornell University and the University of Pennsylvania."
+      #- title: Automated Affective Detection
+      #  link: 
+      #  tagline: "Automatically inferring a user’s emotional state from their interaction with a learning platform and taking appropriate action. An NSF funded project with researchers from Cornell University and the University of Pennsylvania."
 
 publications:
     title: Publications
