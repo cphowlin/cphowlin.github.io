@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: cphowlin@gmail.com
     phone: 
-    website:  #do not add http://
+    website:  cphowlin.com
     linkedin: colmhowlin
     github: 
     gitlab:
@@ -24,6 +24,8 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    researchgate: Colm_Howlin2  
+    googlescholar: o9FAS80AAAAJ
 
     #languages:
     #  - idiom: 
