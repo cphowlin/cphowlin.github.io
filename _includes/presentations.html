@@ -19,10 +19,8 @@
   {% for talk in presentations.talks %}
   <div class="item">
 
-      <span class="project-title">
-          {{ talk.title }}
-      </span>
-      - {{ talk.location }} - {{ talk.date | date: "%b, %Y" }}
+      <div class="presentation-title">{{ talk.title }}</div>
+      <div>{{ talk.location }} - {{ talk.date | date: "%b, %Y" }}</div>
   </div><!--//item-->
   {% endfor %}
 
